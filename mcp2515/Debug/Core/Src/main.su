@@ -1,0 +1,13 @@
+main.c:93:16:SPI_TxRx	32	static
+main.c:106:13:MCP2515_Reset	8	static
+main.c:133:16:MCP2515_Read	24	static
+main.c:154:13:MCP2515_Write	16	static
+main.c:167:13:MCP2515_Test	16	static
+main.c:320:5:main	16	static
+main.c:525:6:SystemClock_Config	120	static
+main.c:585:13:MX_SPI1_Init	8	static
+main.c:633:13:MX_USART3_UART_Init	8	static
+main.c:681:13:MX_GPIO_Init	48	static
+main.c:711:5:_write	32	static
+main.c:722:6:MPU_Config	24	static
+main.c:753:6:Error_Handler	4	static

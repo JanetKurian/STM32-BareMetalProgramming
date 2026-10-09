@@ -1,0 +1,16 @@
+../Core/Src/main.c:94:16:SPI_TxRx	2
+../Core/Src/main.c:107:13:MCP2515_Reset	1
+../Core/Src/main.c:134:16:MCP2515_Read	1
+../Core/Src/main.c:155:13:MCP2515_Write	1
+../Core/Src/main.c:167:13:MCP2515_Test	2
+../Core/Src/main.c:315:13:UDS_SendResponse	10
+../Core/Src/main.c:346:13:UART_CAN_Test	18
+../Core/Src/main.c:438:13:UDS_ProcessRequest	13
+../Core/Src/main.c:648:5:main	3
+../Core/Src/main.c:911:6:SystemClock_Config	4
+../Core/Src/main.c:971:13:MX_SPI1_Init	2
+../Core/Src/main.c:1019:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:1067:13:MX_GPIO_Init	1
+../Core/Src/main.c:1097:5:_write	2
+../Core/Src/main.c:1110:6:MPU_Config	1
+../Core/Src/main.c:1141:6:Error_Handler	1
