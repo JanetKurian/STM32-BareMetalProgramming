@@ -1,0 +1,6 @@
+doip_parser.c:4:22:DoIP_ParseHeader	24	static
+doip_parser.c:29:6:DoIP_BuildHeader	24	static
+doip_parser.c:37:10:DoIP_ReadU16	16	static
+doip_parser.c:42:10:DoIP_ReadU32	16	static
+doip_parser.c:50:6:DoIP_WriteU16	16	static
+doip_parser.c:56:6:DoIP_WriteU32	16	static

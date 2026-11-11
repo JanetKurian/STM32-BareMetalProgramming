@@ -1,0 +1,2 @@
+doip_uds_dispatcher.c:33:17:DoIP_UDS_SendNegativeResponse	16	static
+doip_uds_dispatcher.c:55:10:DoIP_UDS_ProcessRequest	48	static

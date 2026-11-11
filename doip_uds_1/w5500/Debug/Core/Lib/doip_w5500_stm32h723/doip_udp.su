@@ -1,0 +1,2 @@
+doip_udp.c:89:13:DoIP_UDP_SendVehicleAnnouncement	56	static
+doip_udp.c:129:6:DoIP_UDP_Process	2104	static

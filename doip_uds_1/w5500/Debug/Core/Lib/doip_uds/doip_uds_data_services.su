@@ -1,0 +1,3 @@
+doip_uds_data_services.c:21:13:DoIP_UDS_IsSecurityRequired	16	static
+doip_uds_data_services.c:27:17:DoIP_UDS_NegativeResponse	16	static
+doip_uds_data_services.c:43:10:DoIP_UDS_ReadDataByIdentifier	40	static

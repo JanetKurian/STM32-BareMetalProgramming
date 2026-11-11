@@ -1,0 +1,4 @@
+doip.c:14:6:DoIP_Init	16	static
+doip.c:83:6:DoIP_Process	16	static
+doip.c:212:6:DoIP_Stop	8	static
+doip.c:225:10:DoIP_UDS_Process	24	static

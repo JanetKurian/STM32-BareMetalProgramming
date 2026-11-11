@@ -1,0 +1,9 @@
+doip_tcp.c:14:12:DoIP_TCP_SendFrame	40	static
+doip_tcp.c:40:13:DoIP_SendRoutingActivationResponse	32	static
+doip_tcp.c:74:13:DoIP_SendDiagnosticAck	24	static
+doip_tcp.c:88:13:DoIP_HandleRoutingActivation	24	static
+doip_tcp.c:120:13:DoIP_HandleDiagnosticMessage	1072	static
+doip_tcp.c:173:13:DoIP_HandleTCPFrame	24	static
+doip_tcp.c:203:13:DoIP_TCP_ParseStream	24	static
+doip_tcp.c:229:6:DoIP_TCP_Reset	4	static
+doip_tcp.c:237:6:DoIP_TCP_Process	536	static
